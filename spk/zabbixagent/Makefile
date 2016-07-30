@@ -1,5 +1,5 @@
 SPK_NAME = zabbixagent
-SPK_VERS = 2.2.13
+SPK_VERS = 2.2.14
 SPK_REV = 1
 SPK_ICON = src/zabbix.png
 DSM_UI_DIR = app

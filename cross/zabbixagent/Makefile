@@ -1,5 +1,5 @@
 PKG_NAME = zabbixagent
-PKG_VERS = 2.2.13
+PKG_VERS = 2.2.14
 PKG_EXT = tar.gz
 PKG_DIST_NAME = zabbix-$(PKG_VERS).$(PKG_EXT)
 PKG_DIST_SITE = http://sourceforge.net/projects/zabbix/files/ZABBIX%20Latest%20Stable/$(PKG_VERS)
